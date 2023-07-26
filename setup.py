@@ -22,4 +22,4 @@ setup(
     author_email='anand.jangir5829@gmail.com',
     install_requires=get_requirements('requirements.txt'),
     packages=find_packages()
-)
+) asdf
